@@ -57,6 +57,9 @@
 	</ItemGroup>
 
 	<ItemGroup>
+	  <None Remove="Resources\Fonts\FiraSans-Bold.ttf" />
+	  <None Remove="Resources\Fonts\FiraSans-Light.ttf" />
+	  <None Remove="Resources\Fonts\FiraSans-Regular.ttf" />
 	  <None Remove="Resources\Fonts\Kalam-Bold.ttf" />
 	  <None Remove="Resources\Fonts\Kalam-Light.ttf" />
 	  <None Remove="Resources\Fonts\Kalam-Regular.ttf" />
